@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.m520it.jdmallv2"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="18" />
+
+    <application
+        android:allowBackup="true"
+        android:name=".JDApplication"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.m520it.jdmallv2.activity.SplashActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.m520it.jdmallv2.activity.LoginActivity" />
+        <activity android:name="com.m520it.jdmallv2.activity.MainActivity" />
+        <activity android:name="com.m520it.jdmallv2.activity.RegistActivity" />
+        <activity android:name="com.m520it.jdmallv2.activity.ResetActivity" />
+        <activity android:name="com.m520it.jdmallv2.activity.ProductListActivity" />
+        <activity android:name="com.m520it.jdmallv2.activity.ProductDetailsActivity" />
+        <activity android:name="com.m520it.jdmallv2.activity.SettleActivity" />
+        <activity android:name="com.m520it.jdmallv2.activity.ChooseAddressActivity" />
+        <activity android:name="com.m520it.jdmallv2.activity.AddAddressActivity" />
+        <activity android:name="com.m520it.jdmallv2.activity.OrderListActivity" />
+        <activity android:name="com.m520it.jdmallv2.activity.AlipayActivity" />
+        <activity android:name="com.m520it.jdmallv2.activity.OrderDetailsActivity" />
+    </application>
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+</manifest>

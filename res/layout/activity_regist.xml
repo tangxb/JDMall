@@ -1,0 +1,98 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:gravity="center_horizontal"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="注册"
+            android:textSize="20sp" />
+
+        <View
+            android:layout_width="100dp"
+            android:layout_height="6dp"
+            android:background="#C71523" />
+    </LinearLayout>
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:orientation="vertical" >
+
+        <EditText
+            android:id="@+id/name_et"
+            android:layout_width="match_parent"
+            android:layout_height="38dp"
+            android:layout_marginLeft="10dp"
+            android:background="@null"
+            android:drawableLeft="@drawable/icon_user"
+            android:drawablePadding="8dp"
+            android:hint="请输入账号"
+            android:textSize="20sp" />
+
+        <include layout="@layout/divider_view" />
+    </LinearLayout>
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:orientation="vertical" >
+
+        <EditText
+            android:id="@+id/pwd_et"
+            android:layout_width="match_parent"
+            android:layout_height="38dp"
+            android:layout_marginLeft="10dp"
+            android:background="@null"
+            android:drawableLeft="@drawable/icon_p"
+            android:drawablePadding="8dp"
+            android:inputType="textPassword"
+            android:hint="请输入密码"
+            android:textSize="20sp" />
+
+        <include layout="@layout/divider_view" />
+    </LinearLayout>
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:orientation="vertical" >
+
+        <EditText
+            android:id="@+id/sure_pwd_et"
+            android:layout_width="match_parent"
+            android:layout_height="38dp"
+            android:layout_marginLeft="10dp"
+            android:background="@null"
+            android:drawableLeft="@drawable/icon_p"
+            android:drawablePadding="8dp"
+            android:hint="再次确认密码"
+            android:inputType="textPassword"
+            android:textSize="20sp" />
+
+        <include layout="@layout/divider_view" />
+    </LinearLayout>
+    
+    <Button 
+	    android:layout_width="match_parent"
+	    android:layout_height="40dp"
+	    android:background="#C71523"
+	    android:text="下一步"
+	    android:layout_marginTop="30dp"
+	    android:layout_marginLeft="15dp"
+	    android:layout_marginRight="15dp"
+	    android:textStyle="bold"
+	    android:textColor="@android:color/white"
+	    android:onClick="registClick" />
+</LinearLayout>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="home_normal" >#C2364A</color>
+    <color name="home_selected">#6D6D6D</color>
+
+    <color name="bot_text_color_normal">#636363</color>
+    <color name="bot_text_color_selected">#B82339</color>
+    
+    <color name="jd_welcome_bg">#9D000B</color>
+    <color name="main_bottom_bg">#363636</color>
+    <color name="choose_indicator_nor">#323335</color>
+    <color name="choose_indicator_nor_selected">#F33F3F</color>
+    <color name="choose_jd_service_nor">#232326</color>
+    <color name="choose_jd_service_selected">#F33F3F</color>
+    <color name="comment_titile_txt_normal">#161616</color>
+    <color name="comment_titile_txt_selected">#F47A7A</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="comment_title_selected">#F58F8F</color>
+    <color name="comment_title_nroaml">#6D6D6D</color>
+</resources>

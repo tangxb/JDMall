@@ -1,0 +1,590 @@
+android.support.v4.app.BackStackState
+android.support.v4.app.BackStackState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.Fragment$SavedState
+android.support.v4.app.Fragment$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentActivity: FragmentActivity()
+android.support.v4.app.FragmentManagerState
+android.support.v4.app.FragmentManagerState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentState
+android.support.v4.app.FragmentState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentTabHost: void setOnTabChangedListener(android.widget.TabHost$OnTabChangeListener)
+android.support.v4.app.FragmentTabHost$SavedState
+android.support.v4.app.FragmentTabHost$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.content.ModernAsyncTask$Status: android.support.v4.content.ModernAsyncTask$Status[] values()
+android.support.v4.content.ModernAsyncTask$Status: android.support.v4.content.ModernAsyncTask$Status valueOf(java.lang.String)
+android.support.v4.view.PagerTabStrip: void setTabIndicatorColor(int)
+android.support.v4.view.PagerTabStrip: void setTabIndicatorColorResource(int)
+android.support.v4.view.PagerTabStrip: int getTabIndicatorColor()
+android.support.v4.view.PagerTabStrip: void setTextSpacing(int)
+android.support.v4.view.PagerTabStrip: void setBackgroundDrawable(android.graphics.drawable.Drawable)
+android.support.v4.view.PagerTabStrip: void setBackgroundColor(int)
+android.support.v4.view.PagerTabStrip: void setBackgroundResource(int)
+android.support.v4.view.PagerTabStrip: void setDrawFullUnderline(boolean)
+android.support.v4.view.PagerTabStrip: boolean getDrawFullUnderline()
+android.support.v4.view.PagerTabStrip: int getMinHeight()
+android.support.v4.view.PagerTitleStrip: void setSingleLineAllCaps(android.widget.TextView)
+android.support.v4.view.PagerTitleStrip: void setTextSpacing(int)
+android.support.v4.view.PagerTitleStrip: int getTextSpacing()
+android.support.v4.view.PagerTitleStrip: void setNonPrimaryAlpha(float)
+android.support.v4.view.PagerTitleStrip: void setTextColor(int)
+android.support.v4.view.PagerTitleStrip: void setGravity(int)
+android.support.v4.view.PagerTitleStrip: int getMinHeight()
+android.support.v4.view.ViewPager
+android.support.v4.view.ViewPager: ViewPager(android.content.Context)
+android.support.v4.view.ViewPager: ViewPager(android.content.Context,android.util.AttributeSet)
+android.support.v4.view.ViewPager: void setScrollState(int)
+android.support.v4.view.ViewPager: void setAdapter(android.support.v4.view.PagerAdapter)
+android.support.v4.view.ViewPager: android.support.v4.view.PagerAdapter getAdapter()
+android.support.v4.view.ViewPager: void setOnAdapterChangeListener(android.support.v4.view.ViewPager$OnAdapterChangeListener)
+android.support.v4.view.ViewPager: int getClientWidth()
+android.support.v4.view.ViewPager: void setCurrentItem(int)
+android.support.v4.view.ViewPager: int getCurrentItem()
+android.support.v4.view.ViewPager: void setOnPageChangeListener(android.support.v4.view.ViewPager$OnPageChangeListener)
+android.support.v4.view.ViewPager: void setChildrenDrawingOrderEnabledCompat(boolean)
+android.support.v4.view.ViewPager: int getOffscreenPageLimit()
+android.support.v4.view.ViewPager: void setOffscreenPageLimit(int)
+android.support.v4.view.ViewPager: void setPageMargin(int)
+android.support.v4.view.ViewPager: int getPageMargin()
+android.support.v4.view.ViewPager: void setPageMarginDrawable(android.graphics.drawable.Drawable)
+android.support.v4.view.ViewPager: void setPageMarginDrawable(int)
+android.support.v4.view.ViewPager: void setScrollingCacheEnabled(boolean)
+android.support.v4.view.ViewPager$SavedState
+android.support.v4.view.ViewPager$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.widget.DrawerLayout
+android.support.v4.widget.DrawerLayout: DrawerLayout(android.content.Context)
+android.support.v4.widget.DrawerLayout: DrawerLayout(android.content.Context,android.util.AttributeSet)
+android.support.v4.widget.DrawerLayout: DrawerLayout(android.content.Context,android.util.AttributeSet,int)
+android.support.v4.widget.DrawerLayout: void setScrimColor(int)
+android.support.v4.widget.DrawerLayout: void setDrawerListener(android.support.v4.widget.DrawerLayout$DrawerListener)
+android.support.v4.widget.DrawerLayout: void setDrawerLockMode(int)
+android.support.v4.widget.DrawerLayout$SavedState
+android.support.v4.widget.DrawerLayout$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.widget.SlidingPaneLayout: void setParallaxDistance(int)
+android.support.v4.widget.SlidingPaneLayout: int getParallaxDistance()
+android.support.v4.widget.SlidingPaneLayout: void setSliderFadeColor(int)
+android.support.v4.widget.SlidingPaneLayout: int getSliderFadeColor()
+android.support.v4.widget.SlidingPaneLayout: void setCoveredFadeColor(int)
+android.support.v4.widget.SlidingPaneLayout: int getCoveredFadeColor()
+android.support.v4.widget.SlidingPaneLayout: void setPanelSlideListener(android.support.v4.widget.SlidingPaneLayout$PanelSlideListener)
+android.support.v4.widget.SlidingPaneLayout: void setShadowDrawable(android.graphics.drawable.Drawable)
+android.support.v4.widget.SlidingPaneLayout: void setShadowResource(int)
+android.support.v4.widget.SlidingPaneLayout$SavedState
+android.support.v4.widget.SlidingPaneLayout$SavedState: android.os.Parcelable$Creator CREATOR
+com.alibaba.fastjson.parser.Feature: com.alibaba.fastjson.parser.Feature[] values()
+com.alibaba.fastjson.parser.Feature: com.alibaba.fastjson.parser.Feature valueOf(java.lang.String)
+com.alibaba.fastjson.parser.JSONToken: com.alibaba.fastjson.parser.JSONToken[] values()
+com.alibaba.fastjson.parser.JSONToken: com.alibaba.fastjson.parser.JSONToken valueOf(java.lang.String)
+com.alibaba.fastjson.serializer.SerializerFeature: com.alibaba.fastjson.serializer.SerializerFeature[] values()
+com.alibaba.fastjson.serializer.SerializerFeature: com.alibaba.fastjson.serializer.SerializerFeature valueOf(java.lang.String)
+com.loopj.android.image.SmartImageView
+com.loopj.android.image.SmartImageView: SmartImageView(android.content.Context)
+com.loopj.android.image.SmartImageView: SmartImageView(android.content.Context,android.util.AttributeSet)
+com.loopj.android.image.SmartImageView: SmartImageView(android.content.Context,android.util.AttributeSet,int)
+com.loopj.android.image.SmartImageView: void setImageUrl(java.lang.String)
+com.loopj.android.image.SmartImageView: void setImageContact(long)
+com.loopj.android.image.SmartImageView: void setImage(com.loopj.android.image.SmartImage)
+com.m520it.jdmallv2.JDApplication
+com.m520it.jdmallv2.JDApplication: JDApplication()
+com.m520it.jdmallv2.R$color: int bot_text_color_normal
+com.m520it.jdmallv2.R$color: int bot_text_color_selected
+com.m520it.jdmallv2.R$color: int choose_indicator_nor
+com.m520it.jdmallv2.R$color: int choose_indicator_nor_selected
+com.m520it.jdmallv2.R$color: int choose_jd_service_nor
+com.m520it.jdmallv2.R$color: int choose_jd_service_selected
+com.m520it.jdmallv2.R$color: int comment_titile_txt_normal
+com.m520it.jdmallv2.R$color: int comment_titile_txt_selected
+com.m520it.jdmallv2.R$color: int comment_title_nroaml
+com.m520it.jdmallv2.R$color: int comment_title_selected
+com.m520it.jdmallv2.R$color: int home_normal
+com.m520it.jdmallv2.R$color: int home_selected
+com.m520it.jdmallv2.R$color: int jd_welcome_bg
+com.m520it.jdmallv2.R$color: int main_bottom_bg
+com.m520it.jdmallv2.R$color: int transparent
+com.m520it.jdmallv2.R$dimen: int activity_horizontal_margin
+com.m520it.jdmallv2.R$dimen: int activity_vertical_margin
+com.m520it.jdmallv2.R$drawable: int ad_indicator_bg
+com.m520it.jdmallv2.R$drawable: int alipay_btn_bg
+com.m520it.jdmallv2.R$drawable: int alipay_pop_bg
+com.m520it.jdmallv2.R$drawable: int banner
+com.m520it.jdmallv2.R$drawable: int blue_btn_normal
+com.m520it.jdmallv2.R$drawable: int blue_btn_pressed
+com.m520it.jdmallv2.R$drawable: int bot_bar_category
+com.m520it.jdmallv2.R$drawable: int bot_bar_category_selected
+com.m520it.jdmallv2.R$drawable: int bot_bar_home
+com.m520it.jdmallv2.R$drawable: int bot_bar_home_selected
+com.m520it.jdmallv2.R$drawable: int bot_bar_mime
+com.m520it.jdmallv2.R$drawable: int bot_bar_mime_selected
+com.m520it.jdmallv2.R$drawable: int bot_bar_shopcar
+com.m520it.jdmallv2.R$drawable: int bot_bar_shopcar_selected
+com.m520it.jdmallv2.R$drawable: int bot_bar_tvcolor
+com.m520it.jdmallv2.R$drawable: int bot_category_indicator_bg
+com.m520it.jdmallv2.R$drawable: int bot_home_indicator_bg
+com.m520it.jdmallv2.R$drawable: int bot_mine_indicator_bg
+com.m520it.jdmallv2.R$drawable: int bot_shopcar_indicator_bg
+com.m520it.jdmallv2.R$drawable: int btn_right_asc
+com.m520it.jdmallv2.R$drawable: int btn_right_desc
+com.m520it.jdmallv2.R$drawable: int choose_all_bg_selector
+com.m520it.jdmallv2.R$drawable: int choose_price_bg_selector
+com.m520it.jdmallv2.R$drawable: int choose_product_indicator_tv_bg
+com.m520it.jdmallv2.R$drawable: int choose_productlist_price_bg
+com.m520it.jdmallv2.R$drawable: int choose_productlist_service_txtbg
+com.m520it.jdmallv2.R$drawable: int clock
+com.m520it.jdmallv2.R$drawable: int comment_title_txtcolor
+com.m520it.jdmallv2.R$drawable: int cus_goto_top_def
+com.m520it.jdmallv2.R$drawable: int cus_goto_top_pre
+com.m520it.jdmallv2.R$drawable: int cussvc_icon
+com.m520it.jdmallv2.R$drawable: int customization_small_triangle_off
+com.m520it.jdmallv2.R$drawable: int customization_small_triangle_on
+com.m520it.jdmallv2.R$drawable: int data_null
+com.m520it.jdmallv2.R$drawable: int decrease_count
+com.m520it.jdmallv2.R$drawable: int fav_icon
+com.m520it.jdmallv2.R$drawable: int goback
+com.m520it.jdmallv2.R$drawable: int home_category
+com.m520it.jdmallv2.R$drawable: int home_follow
+com.m520it.jdmallv2.R$drawable: int home_jd
+com.m520it.jdmallv2.R$drawable: int home_jdmarket
+com.m520it.jdmallv2.R$drawable: int home_logistics
+com.m520it.jdmallv2.R$drawable: int home_recharge
+com.m520it.jdmallv2.R$drawable: int home_shopcar
+com.m520it.jdmallv2.R$drawable: int home_ticket
+com.m520it.jdmallv2.R$drawable: int ic_launcher
+com.m520it.jdmallv2.R$drawable: int icon_p
+com.m520it.jdmallv2.R$drawable: int icon_search
+com.m520it.jdmallv2.R$drawable: int icon_shopcar
+com.m520it.jdmallv2.R$drawable: int icon_user
+com.m520it.jdmallv2.R$drawable: int increase_count
+com.m520it.jdmallv2.R$drawable: int iocn_yy
+com.m520it.jdmallv2.R$drawable: int loading_progressbar1
+com.m520it.jdmallv2.R$drawable: int loading_progressbar10
+com.m520it.jdmallv2.R$drawable: int loading_progressbar11
+com.m520it.jdmallv2.R$drawable: int loading_progressbar12
+com.m520it.jdmallv2.R$drawable: int loading_progressbar2
+com.m520it.jdmallv2.R$drawable: int loading_progressbar3
+com.m520it.jdmallv2.R$drawable: int loading_progressbar4
+com.m520it.jdmallv2.R$drawable: int loading_progressbar5
+com.m520it.jdmallv2.R$drawable: int loading_progressbar6
+com.m520it.jdmallv2.R$drawable: int loading_progressbar7
+com.m520it.jdmallv2.R$drawable: int loading_progressbar8
+com.m520it.jdmallv2.R$drawable: int loading_progressbar9
+com.m520it.jdmallv2.R$drawable: int login_icon
+com.m520it.jdmallv2.R$drawable: int logo
+com.m520it.jdmallv2.R$drawable: int love_icon
+com.m520it.jdmallv2.R$drawable: int message
+com.m520it.jdmallv2.R$drawable: int mine_account
+com.m520it.jdmallv2.R$drawable: int mine_app
+com.m520it.jdmallv2.R$drawable: int mine_bespoke
+com.m520it.jdmallv2.R$drawable: int mine_bg
+com.m520it.jdmallv2.R$drawable: int mine_follow
+com.m520it.jdmallv2.R$drawable: int mine_manager
+com.m520it.jdmallv2.R$drawable: int mine_order
+com.m520it.jdmallv2.R$drawable: int mine_record
+com.m520it.jdmallv2.R$drawable: int mine_wallet
+com.m520it.jdmallv2.R$drawable: int more_icon
+com.m520it.jdmallv2.R$drawable: int more_radio_normal
+com.m520it.jdmallv2.R$drawable: int more_radio_selected
+com.m520it.jdmallv2.R$drawable: int msg_icon
+com.m520it.jdmallv2.R$drawable: int number_input_et_bg
+com.m520it.jdmallv2.R$drawable: int order_item_btn_bg
+com.m520it.jdmallv2.R$drawable: int order_p_icon
+com.m520it.jdmallv2.R$drawable: int pay_money_choose_bg
+com.m520it.jdmallv2.R$drawable: int pro_introl_icon_indic_bg
+com.m520it.jdmallv2.R$drawable: int product_iv
+com.m520it.jdmallv2.R$drawable: int programset_item_arrow
+com.m520it.jdmallv2.R$drawable: int regist_cbx_normal
+com.m520it.jdmallv2.R$drawable: int regist_cbx_selected
+com.m520it.jdmallv2.R$drawable: int scan
+com.m520it.jdmallv2.R$drawable: int scroll_to_top_indic
+com.m520it.jdmallv2.R$drawable: int search_et_shap
+com.m520it.jdmallv2.R$drawable: int sec_kill
+com.m520it.jdmallv2.R$drawable: int share_icon
+com.m520it.jdmallv2.R$drawable: int shared_icon
+com.m520it.jdmallv2.R$drawable: int shopcar_item_cbx_bg
+com.m520it.jdmallv2.R$drawable: int shopping_chs_normal
+com.m520it.jdmallv2.R$drawable: int shopping_chs_selected
+com.m520it.jdmallv2.R$drawable: int shopping_receiver_bg
+com.m520it.jdmallv2.R$drawable: int start_normal
+com.m520it.jdmallv2.R$drawable: int start_selected
+com.m520it.jdmallv2.R$drawable: int store_icon
+com.m520it.jdmallv2.R$drawable: int super_account_info_bg
+com.m520it.jdmallv2.R$drawable: int time_left_shap
+com.m520it.jdmallv2.R$drawable: int tongcheng_all_bg01
+com.m520it.jdmallv2.R$drawable: int top_category_item_bg
+com.m520it.jdmallv2.R$drawable: int user_default
+com.m520it.jdmallv2.R$drawable: int user_mgr
+com.m520it.jdmallv2.R$drawable: int white_star
+com.m520it.jdmallv2.R$drawable: int xlistview_arrow
+com.m520it.jdmallv2.R$id: int account_et
+com.m520it.jdmallv2.R$id: int action_settings
+com.m520it.jdmallv2.R$id: int actual_price_tv
+com.m520it.jdmallv2.R$id: int actual_price_val_tv
+com.m520it.jdmallv2.R$id: int ad2_iv
+com.m520it.jdmallv2.R$id: int ad_indicator
+com.m520it.jdmallv2.R$id: int ad_rl
+com.m520it.jdmallv2.R$id: int ad_vp
+com.m520it.jdmallv2.R$id: int address_details_et
+com.m520it.jdmallv2.R$id: int address_tv
+com.m520it.jdmallv2.R$id: int all_cbx
+com.m520it.jdmallv2.R$id: int all_comment_ll
+com.m520it.jdmallv2.R$id: int all_comment_tip
+com.m520it.jdmallv2.R$id: int all_comment_tv
+com.m520it.jdmallv2.R$id: int all_indicator
+com.m520it.jdmallv2.R$id: int all_money_tv
+com.m520it.jdmallv2.R$id: int all_order_ll
+com.m520it.jdmallv2.R$id: int all_order_lv
+com.m520it.jdmallv2.R$id: int all_order_view
+com.m520it.jdmallv2.R$id: int all_price_tv
+com.m520it.jdmallv2.R$id: int all_price_val_tv
+com.m520it.jdmallv2.R$id: int all_sort
+com.m520it.jdmallv2.R$id: int app_icon_iv
+com.m520it.jdmallv2.R$id: int asvp
+com.m520it.jdmallv2.R$id: int bottom_bar_id
+com.m520it.jdmallv2.R$id: int brand_name_tv
+com.m520it.jdmallv2.R$id: int buyCount_tv
+com.m520it.jdmallv2.R$id: int buytime_tv
+com.m520it.jdmallv2.R$id: int buyversion_tv
+com.m520it.jdmallv2.R$id: int cancal_btn
+com.m520it.jdmallv2.R$id: int cancel_btn
+com.m520it.jdmallv2.R$id: int cancle_order_tv
+com.m520it.jdmallv2.R$id: int category_iv
+com.m520it.jdmallv2.R$id: int category_ll
+com.m520it.jdmallv2.R$id: int category_tv
+com.m520it.jdmallv2.R$id: int cbx
+com.m520it.jdmallv2.R$id: int center_comment_ll
+com.m520it.jdmallv2.R$id: int center_comment_tip
+com.m520it.jdmallv2.R$id: int center_comment_tv
+com.m520it.jdmallv2.R$id: int child_container_ll
+com.m520it.jdmallv2.R$id: int choose_address_tv
+com.m520it.jdmallv2.R$id: int choose_indicator
+com.m520it.jdmallv2.R$id: int choose_province_tv
+com.m520it.jdmallv2.R$id: int city_lv
+com.m520it.jdmallv2.R$id: int clock
+com.m520it.jdmallv2.R$id: int comment_ll
+com.m520it.jdmallv2.R$id: int comment_sort
+com.m520it.jdmallv2.R$id: int comment_tv
+com.m520it.jdmallv2.R$id: int commentlv
+com.m520it.jdmallv2.R$id: int commrate_tv
+com.m520it.jdmallv2.R$id: int container
+com.m520it.jdmallv2.R$id: int container_rl
+com.m520it.jdmallv2.R$id: int content_tv
+com.m520it.jdmallv2.R$id: int content_view
+com.m520it.jdmallv2.R$id: int deal_no_tv
+com.m520it.jdmallv2.R$id: int deal_no_val_tv
+com.m520it.jdmallv2.R$id: int deal_time_tv
+com.m520it.jdmallv2.R$id: int deal_time_val_tv
+com.m520it.jdmallv2.R$id: int deal_type_tv
+com.m520it.jdmallv2.R$id: int deal_type_val_tv
+com.m520it.jdmallv2.R$id: int decrease_count
+com.m520it.jdmallv2.R$id: int default_cbx
+com.m520it.jdmallv2.R$id: int delete_product
+com.m520it.jdmallv2.R$id: int delete_tv
+com.m520it.jdmallv2.R$id: int desc_tv
+com.m520it.jdmallv2.R$id: int details_ll
+com.m520it.jdmallv2.R$id: int details_view
+com.m520it.jdmallv2.R$id: int dist_lv
+com.m520it.jdmallv2.R$id: int divider
+com.m520it.jdmallv2.R$id: int divider_view
+com.m520it.jdmallv2.R$id: int do_btn
+com.m520it.jdmallv2.R$id: int drawerlayout
+com.m520it.jdmallv2.R$id: int freight_tv
+com.m520it.jdmallv2.R$id: int good_comment_lv
+com.m520it.jdmallv2.R$id: int good_comment_tv
+com.m520it.jdmallv2.R$id: int good_rate_tip
+com.m520it.jdmallv2.R$id: int good_rate_tv
+com.m520it.jdmallv2.R$id: int gv
+com.m520it.jdmallv2.R$id: int has_image_comment_ll
+com.m520it.jdmallv2.R$id: int has_image_comment_tip
+com.m520it.jdmallv2.R$id: int has_image_comment_tv
+com.m520it.jdmallv2.R$id: int has_receiver_rl
+com.m520it.jdmallv2.R$id: int home_iv
+com.m520it.jdmallv2.R$id: int home_ll
+com.m520it.jdmallv2.R$id: int home_tv
+com.m520it.jdmallv2.R$id: int horizon_listview
+com.m520it.jdmallv2.R$id: int iamges_container
+com.m520it.jdmallv2.R$id: int icon_iv
+com.m520it.jdmallv2.R$id: int image_iv
+com.m520it.jdmallv2.R$id: int increase_count
+com.m520it.jdmallv2.R$id: int info_ll
+com.m520it.jdmallv2.R$id: int introduce_ll
+com.m520it.jdmallv2.R$id: int introduce_view
+com.m520it.jdmallv2.R$id: int isDeafult_iv
+com.m520it.jdmallv2.R$id: int jd_take_tv
+com.m520it.jdmallv2.R$id: int justhasstock_tv
+com.m520it.jdmallv2.R$id: int left_v
+com.m520it.jdmallv2.R$id: int ll
+com.m520it.jdmallv2.R$id: int logout_btn
+com.m520it.jdmallv2.R$id: int lovecount_tv
+com.m520it.jdmallv2.R$id: int lv
+com.m520it.jdmallv2.R$id: int maxPrice_et
+com.m520it.jdmallv2.R$id: int message_iv
+com.m520it.jdmallv2.R$id: int mime_order
+com.m520it.jdmallv2.R$id: int minPrice_et
+com.m520it.jdmallv2.R$id: int mine_iv
+com.m520it.jdmallv2.R$id: int mine_ll
+com.m520it.jdmallv2.R$id: int mine_tv
+com.m520it.jdmallv2.R$id: int more_iv
+com.m520it.jdmallv2.R$id: int nagetive_comment_ll
+com.m520it.jdmallv2.R$id: int nagetive_comment_tip
+com.m520it.jdmallv2.R$id: int nagetive_comment_tv
+com.m520it.jdmallv2.R$id: int name_et
+com.m520it.jdmallv2.R$id: int name_tv
+com.m520it.jdmallv2.R$id: int new_sort
+com.m520it.jdmallv2.R$id: int no_receiver_rl
+com.m520it.jdmallv2.R$id: int normalprice_tv
+com.m520it.jdmallv2.R$id: int nowprice_tv
+com.m520it.jdmallv2.R$id: int number_et
+com.m520it.jdmallv2.R$id: int number_input_et
+com.m520it.jdmallv2.R$id: int order_desc_tv
+com.m520it.jdmallv2.R$id: int order_desc_val_tv
+com.m520it.jdmallv2.R$id: int order_no_tv
+com.m520it.jdmallv2.R$id: int order_state_tv
+com.m520it.jdmallv2.R$id: int order_time_tv
+com.m520it.jdmallv2.R$id: int p_buycount_iv
+com.m520it.jdmallv2.R$id: int p_container_ll
+com.m520it.jdmallv2.R$id: int p_divider
+com.m520it.jdmallv2.R$id: int p_icon_iv
+com.m520it.jdmallv2.R$id: int p_name_iv
+com.m520it.jdmallv2.R$id: int p_price_iv
+com.m520it.jdmallv2.R$id: int parent_view
+com.m520it.jdmallv2.R$id: int pay_btn
+com.m520it.jdmallv2.R$id: int pay_money_tv
+com.m520it.jdmallv2.R$id: int pay_online_tv
+com.m520it.jdmallv2.R$id: int pay_price_tv
+com.m520it.jdmallv2.R$id: int pay_pwd_et
+com.m520it.jdmallv2.R$id: int pay_whenget_tv
+com.m520it.jdmallv2.R$id: int paywhenreceive_tv
+com.m520it.jdmallv2.R$id: int phone_et
+com.m520it.jdmallv2.R$id: int phone_tv
+com.m520it.jdmallv2.R$id: int piv
+com.m520it.jdmallv2.R$id: int positive_comment_ll
+com.m520it.jdmallv2.R$id: int positive_comment_tip
+com.m520it.jdmallv2.R$id: int positive_comment_tv
+com.m520it.jdmallv2.R$id: int price_indicator
+com.m520it.jdmallv2.R$id: int price_tv
+com.m520it.jdmallv2.R$id: int product_container_ll
+com.m520it.jdmallv2.R$id: int product_iv
+com.m520it.jdmallv2.R$id: int product_lv
+com.m520it.jdmallv2.R$id: int product_versions_gv
+com.m520it.jdmallv2.R$id: int products_lv
+com.m520it.jdmallv2.R$id: int province_lv
+com.m520it.jdmallv2.R$id: int psize
+com.m520it.jdmallv2.R$id: int pwd_et
+com.m520it.jdmallv2.R$id: int rating_bar
+com.m520it.jdmallv2.R$id: int receive_address_tv
+com.m520it.jdmallv2.R$id: int receive_name_tv
+com.m520it.jdmallv2.R$id: int receive_phone_tv
+com.m520it.jdmallv2.R$id: int recommend_buy_tv
+com.m520it.jdmallv2.R$id: int recommend_gv
+com.m520it.jdmallv2.R$id: int sale_indicator
+com.m520it.jdmallv2.R$id: int scan_iv
+com.m520it.jdmallv2.R$id: int scroll_to_top_indic
+com.m520it.jdmallv2.R$id: int scrollbar
+com.m520it.jdmallv2.R$id: int scrollview
+com.m520it.jdmallv2.R$id: int search_et
+com.m520it.jdmallv2.R$id: int self_sale_tv
+com.m520it.jdmallv2.R$id: int settle_tv
+com.m520it.jdmallv2.R$id: int shopcar_iv
+com.m520it.jdmallv2.R$id: int shopcar_ll
+com.m520it.jdmallv2.R$id: int shopcar_lv
+com.m520it.jdmallv2.R$id: int shopcar_tv
+com.m520it.jdmallv2.R$id: int slide_view
+com.m520it.jdmallv2.R$id: int status_tv
+com.m520it.jdmallv2.R$id: int subcategory
+com.m520it.jdmallv2.R$id: int subcomment_tv
+com.m520it.jdmallv2.R$id: int submit_tv
+com.m520it.jdmallv2.R$id: int sure_btn
+com.m520it.jdmallv2.R$id: int sure_pwd_et
+com.m520it.jdmallv2.R$id: int take_price_tv
+com.m520it.jdmallv2.R$id: int take_price_val_tv
+com.m520it.jdmallv2.R$id: int time_tv
+com.m520it.jdmallv2.R$id: int tip_tv
+com.m520it.jdmallv2.R$id: int title_tv
+com.m520it.jdmallv2.R$id: int to_pay_tv
+com.m520it.jdmallv2.R$id: int top_lv
+com.m520it.jdmallv2.R$id: int total_price_tv
+com.m520it.jdmallv2.R$id: int total_price_val_tv
+com.m520it.jdmallv2.R$id: int total_psize_tv
+com.m520it.jdmallv2.R$id: int tv
+com.m520it.jdmallv2.R$id: int user_icon_iv
+com.m520it.jdmallv2.R$id: int user_level_tv
+com.m520it.jdmallv2.R$id: int user_name_tv
+com.m520it.jdmallv2.R$id: int version_tv
+com.m520it.jdmallv2.R$id: int vp
+com.m520it.jdmallv2.R$id: int vp_indic_tv
+com.m520it.jdmallv2.R$id: int wait_pay_ll
+com.m520it.jdmallv2.R$id: int wait_pay_order_lv
+com.m520it.jdmallv2.R$id: int wait_pay_tv
+com.m520it.jdmallv2.R$id: int wait_pay_view
+com.m520it.jdmallv2.R$id: int wait_receive_ll
+com.m520it.jdmallv2.R$id: int wait_receive_order_lv
+com.m520it.jdmallv2.R$id: int wait_receive_tv
+com.m520it.jdmallv2.R$id: int wait_receive_view
+com.m520it.jdmallv2.R$id: int wait_sure_ll
+com.m520it.jdmallv2.R$id: int wait_sure_lv
+com.m520it.jdmallv2.R$id: int wait_sure_view
+com.m520it.jdmallv2.R$id: int webview
+com.m520it.jdmallv2.R$id: int xlistview_footer_content
+com.m520it.jdmallv2.R$id: int xlistview_footer_hint_textview
+com.m520it.jdmallv2.R$id: int xlistview_footer_progressbar
+com.m520it.jdmallv2.R$id: int xlistview_header_arrow
+com.m520it.jdmallv2.R$id: int xlistview_header_content
+com.m520it.jdmallv2.R$id: int xlistview_header_hint_textview
+com.m520it.jdmallv2.R$id: int xlistview_header_progressbar
+com.m520it.jdmallv2.R$id: int xlistview_header_text
+com.m520it.jdmallv2.R$id: int xlistview_header_time
+com.m520it.jdmallv2.R$layout: int activity_add_address
+com.m520it.jdmallv2.R$layout: int activity_alipay
+com.m520it.jdmallv2.R$layout: int activity_choose_address
+com.m520it.jdmallv2.R$layout: int activity_login
+com.m520it.jdmallv2.R$layout: int activity_main
+com.m520it.jdmallv2.R$layout: int activity_order_details
+com.m520it.jdmallv2.R$layout: int activity_order_list
+com.m520it.jdmallv2.R$layout: int activity_product_details
+com.m520it.jdmallv2.R$layout: int activity_product_list
+com.m520it.jdmallv2.R$layout: int activity_regist
+com.m520it.jdmallv2.R$layout: int activity_reset
+com.m520it.jdmallv2.R$layout: int activity_settle
+com.m520it.jdmallv2.R$layout: int activity_splash
+com.m520it.jdmallv2.R$layout: int address_pop_view
+com.m520it.jdmallv2.R$layout: int bottom_bar
+com.m520it.jdmallv2.R$layout: int brand_item_view
+com.m520it.jdmallv2.R$layout: int build_order_pop_view
+com.m520it.jdmallv2.R$layout: int choose_address_item
+com.m520it.jdmallv2.R$layout: int comment_item
+com.m520it.jdmallv2.R$layout: int divider_view
+com.m520it.jdmallv2.R$layout: int frag_all_order
+com.m520it.jdmallv2.R$layout: int frag_wait_pay
+com.m520it.jdmallv2.R$layout: int frag_wait_receive
+com.m520it.jdmallv2.R$layout: int frag_wait_sure
+com.m520it.jdmallv2.R$layout: int fragment_all_order
+com.m520it.jdmallv2.R$layout: int fragment_category
+com.m520it.jdmallv2.R$layout: int fragment_home
+com.m520it.jdmallv2.R$layout: int fragment_mine
+com.m520it.jdmallv2.R$layout: int fragment_orderlist
+com.m520it.jdmallv2.R$layout: int fragment_product_comment
+com.m520it.jdmallv2.R$layout: int fragment_product_details
+com.m520it.jdmallv2.R$layout: int fragment_product_introduce
+com.m520it.jdmallv2.R$layout: int fragment_shopcar
+com.m520it.jdmallv2.R$layout: int fragment_wait_receive
+com.m520it.jdmallv2.R$layout: int fragment_wait_sure
+com.m520it.jdmallv2.R$layout: int home_child_module
+com.m520it.jdmallv2.R$layout: int home_seckill_item
+com.m520it.jdmallv2.R$layout: int number_input_et
+com.m520it.jdmallv2.R$layout: int order_details_products_item
+com.m520it.jdmallv2.R$layout: int order_list_item
+com.m520it.jdmallv2.R$layout: int pay_dialog
+com.m520it.jdmallv2.R$layout: int product_lv_item
+com.m520it.jdmallv2.R$layout: int product_sort_pop_view
+com.m520it.jdmallv2.R$layout: int rating_bar_view
+com.m520it.jdmallv2.R$layout: int recommend_comment_item
+com.m520it.jdmallv2.R$layout: int recommend_gv_item
+com.m520it.jdmallv2.R$layout: int shopcar_lv_item
+com.m520it.jdmallv2.R$layout: int sub_category_view
+com.m520it.jdmallv2.R$layout: int top_category_item
+com.m520it.jdmallv2.R$layout: int xlistview_footer
+com.m520it.jdmallv2.R$layout: int xlistview_header
+com.m520it.jdmallv2.R$menu: int main
+com.m520it.jdmallv2.R$string: int action_settings
+com.m520it.jdmallv2.R$string: int app_name
+com.m520it.jdmallv2.R$string: int hello_world
+com.m520it.jdmallv2.R$string: int xlistview_footer_hint_normal
+com.m520it.jdmallv2.R$string: int xlistview_footer_hint_ready
+com.m520it.jdmallv2.R$string: int xlistview_header_hint_loading
+com.m520it.jdmallv2.R$string: int xlistview_header_hint_normal
+com.m520it.jdmallv2.R$string: int xlistview_header_hint_ready
+com.m520it.jdmallv2.R$string: int xlistview_header_last_time
+com.m520it.jdmallv2.R$style: int AppBaseTheme
+com.m520it.jdmallv2.R$style: int AppTheme
+com.m520it.jdmallv2.activity.AddAddressActivity
+com.m520it.jdmallv2.activity.AddAddressActivity: AddAddressActivity()
+com.m520it.jdmallv2.activity.AddAddressActivity: void saveAddress(android.view.View)
+com.m520it.jdmallv2.activity.AddAddressActivity: void onClick(android.view.View)
+com.m520it.jdmallv2.activity.AlipayActivity
+com.m520it.jdmallv2.activity.AlipayActivity: AlipayActivity()
+com.m520it.jdmallv2.activity.AlipayActivity: void payClick(android.view.View)
+com.m520it.jdmallv2.activity.BaseActivity: BaseActivity()
+com.m520it.jdmallv2.activity.ChooseAddressActivity
+com.m520it.jdmallv2.activity.ChooseAddressActivity: ChooseAddressActivity()
+com.m520it.jdmallv2.activity.LoginActivity
+com.m520it.jdmallv2.activity.LoginActivity: LoginActivity()
+com.m520it.jdmallv2.activity.LoginActivity: void loginClick(android.view.View)
+com.m520it.jdmallv2.activity.LoginActivity: void registClick(android.view.View)
+com.m520it.jdmallv2.activity.LoginActivity: void resetClick(android.view.View)
+com.m520it.jdmallv2.activity.MainActivity
+com.m520it.jdmallv2.activity.MainActivity: MainActivity()
+com.m520it.jdmallv2.activity.MainActivity: void onItemClick(android.view.View)
+com.m520it.jdmallv2.activity.OrderDetailsActivity
+com.m520it.jdmallv2.activity.OrderDetailsActivity: OrderDetailsActivity()
+com.m520it.jdmallv2.activity.OrderListActivity
+com.m520it.jdmallv2.activity.OrderListActivity: OrderListActivity()
+com.m520it.jdmallv2.activity.OrderListActivity: void onClick(android.view.View)
+com.m520it.jdmallv2.activity.ProductDetailsActivity
+com.m520it.jdmallv2.activity.ProductDetailsActivity: ProductDetailsActivity()
+com.m520it.jdmallv2.activity.ProductDetailsActivity: void onClick(android.view.View)
+com.m520it.jdmallv2.activity.ProductDetailsActivity: void add2ShopCar(android.view.View)
+com.m520it.jdmallv2.activity.ProductListActivity
+com.m520it.jdmallv2.activity.ProductListActivity: ProductListActivity()
+com.m520it.jdmallv2.activity.ProductListActivity: void onClick(android.view.View)
+com.m520it.jdmallv2.activity.ProductListActivity: void chooseSearchClick(android.view.View)
+com.m520it.jdmallv2.activity.ProductListActivity: void resetClick(android.view.View)
+com.m520it.jdmallv2.activity.RegistActivity
+com.m520it.jdmallv2.activity.RegistActivity: RegistActivity()
+com.m520it.jdmallv2.activity.RegistActivity: void registClick(android.view.View)
+com.m520it.jdmallv2.activity.ResetActivity
+com.m520it.jdmallv2.activity.ResetActivity: ResetActivity()
+com.m520it.jdmallv2.activity.ResetActivity: void resetClick(android.view.View)
+com.m520it.jdmallv2.activity.SettleActivity
+com.m520it.jdmallv2.activity.SettleActivity: SettleActivity()
+com.m520it.jdmallv2.activity.SettleActivity: void chooseAddress(android.view.View)
+com.m520it.jdmallv2.activity.SettleActivity: void addAddress(android.view.View)
+com.m520it.jdmallv2.activity.SettleActivity: void submitClick(android.view.View)
+com.m520it.jdmallv2.activity.SettleActivity: void onClick(android.view.View)
+com.m520it.jdmallv2.activity.SplashActivity
+com.m520it.jdmallv2.activity.SplashActivity: SplashActivity()
+com.m520it.jdmallv2.controller.ShopcarController: com.m520it.jdmallv2.bean.ReceiverAddress addAddress(com.m520it.jdmallv2.bean.SAddAddressParams)
+com.m520it.jdmallv2.ui.BottomBar
+com.m520it.jdmallv2.ui.BottomBar: BottomBar(android.content.Context,android.util.AttributeSet)
+com.m520it.jdmallv2.ui.BottomBar: void setIBottomBarClickListener(com.m520it.jdmallv2.protocol.IBottomItemClickListener)
+com.m520it.jdmallv2.ui.FlexiListView
+com.m520it.jdmallv2.ui.FlexiListView: FlexiListView(android.content.Context)
+com.m520it.jdmallv2.ui.FlexiListView: FlexiListView(android.content.Context,android.util.AttributeSet)
+com.m520it.jdmallv2.ui.FlexiListView: FlexiListView(android.content.Context,android.util.AttributeSet,int)
+com.m520it.jdmallv2.ui.FlexiScrollView
+com.m520it.jdmallv2.ui.FlexiScrollView: FlexiScrollView(android.content.Context)
+com.m520it.jdmallv2.ui.FlexiScrollView: FlexiScrollView(android.content.Context,android.util.AttributeSet)
+com.m520it.jdmallv2.ui.FlexiScrollView: FlexiScrollView(android.content.Context,android.util.AttributeSet,int)
+com.m520it.jdmallv2.ui.HorizontalListView
+com.m520it.jdmallv2.ui.HorizontalListView: HorizontalListView(android.content.Context,android.util.AttributeSet)
+com.m520it.jdmallv2.ui.HorizontalListView: void setOnItemSelectedListener(android.widget.AdapterView$OnItemSelectedListener)
+com.m520it.jdmallv2.ui.HorizontalListView: void setOnItemClickListener(android.widget.AdapterView$OnItemClickListener)
+com.m520it.jdmallv2.ui.HorizontalListView: void setOnItemLongClickListener(android.widget.AdapterView$OnItemLongClickListener)
+com.m520it.jdmallv2.ui.HorizontalListView: android.widget.ListAdapter getAdapter()
+com.m520it.jdmallv2.ui.HorizontalListView: android.view.View getSelectedView()
+com.m520it.jdmallv2.ui.HorizontalListView: void setAdapter(android.widget.ListAdapter)
+com.m520it.jdmallv2.ui.HorizontalListView: void setSelection(int)
+com.m520it.jdmallv2.ui.HorizontalListView: void setAdapter(android.widget.Adapter)
+com.m520it.jdmallv2.ui.HorizontalListView: android.widget.Adapter getAdapter()
+com.m520it.jdmallv2.ui.NumberInputView
+com.m520it.jdmallv2.ui.NumberInputView: void setListener(com.m520it.jdmallv2.protocol.INumberInputListener)
+com.m520it.jdmallv2.ui.NumberInputView: NumberInputView(android.content.Context,android.util.AttributeSet)
+com.m520it.jdmallv2.ui.NumberInputView: void setMax(int)
+com.m520it.jdmallv2.ui.RatingBar
+com.m520it.jdmallv2.ui.RatingBar: RatingBar(android.content.Context,android.util.AttributeSet)
+com.m520it.jdmallv2.ui.RatingBar: void setRating(int)
+com.m520it.jdmallv2.ui.SubCategoryView
+com.m520it.jdmallv2.ui.SubCategoryView: SubCategoryView(android.content.Context,android.util.AttributeSet)
+me.maxwin.view.XListView
+me.maxwin.view.XListView: XListView(android.content.Context)
+me.maxwin.view.XListView: XListView(android.content.Context,android.util.AttributeSet)
+me.maxwin.view.XListView: XListView(android.content.Context,android.util.AttributeSet,int)
+me.maxwin.view.XListView: void setAdapter(android.widget.ListAdapter)
+me.maxwin.view.XListView: void setPullRefreshEnable(boolean)
+me.maxwin.view.XListView: void setPullLoadEnable(boolean)
+me.maxwin.view.XListView: void setRefreshTime(java.lang.String)
+me.maxwin.view.XListView: void setOnScrollListener(android.widget.AbsListView$OnScrollListener)
+me.maxwin.view.XListView: void setXListViewListener(me.maxwin.view.XListView$IXListViewListener)
+me.maxwin.view.XListViewFooter: void setState(int)
+me.maxwin.view.XListViewFooter: void setBottomMargin(int)
+me.maxwin.view.XListViewFooter: int getBottomMargin()
+me.maxwin.view.XListViewHeader: void setState(int)
+me.maxwin.view.XListViewHeader: void setVisiableHeight(int)
+me.maxwin.view.XListViewHeader: int getVisiableHeight()

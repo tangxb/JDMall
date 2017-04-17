@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.m520it.jdmallv2.ui.BottomBar xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal" >
+
+    <LinearLayout
+        android:id="@+id/home_ll"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:paddingBottom="8dp"
+        android:paddingTop="8dp" >
+
+        <ImageView
+            android:id="@+id/home_iv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bot_home_indicator_bg" />
+
+        <TextView
+            android:id="@+id/home_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:text="首页"
+            android:textColor="@drawable/bot_bar_tvcolor" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/category_ll"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:paddingBottom="8dp"
+        android:paddingTop="8dp" >
+
+        <ImageView
+            android:id="@+id/category_iv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bot_category_indicator_bg" />
+
+        <TextView
+            android:id="@+id/category_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:text="分类"
+            android:textColor="@drawable/bot_bar_tvcolor" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/shopcar_ll"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:paddingBottom="8dp"
+        android:paddingTop="8dp" >
+
+        <ImageView
+            android:id="@+id/shopcar_iv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bot_shopcar_indicator_bg" />
+
+        <TextView
+            android:id="@+id/shopcar_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:text="购物车"
+            android:textColor="@drawable/bot_bar_tvcolor" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/mine_ll"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:paddingBottom="8dp"
+        android:paddingTop="8dp" >
+
+        <ImageView
+            android:id="@+id/mine_iv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bot_mine_indicator_bg" />
+
+        <TextView
+            android:id="@+id/mine_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:text="我的"
+            android:textColor="@drawable/bot_bar_tvcolor" />
+    </LinearLayout>
+
+</com.m520it.jdmallv2.ui.BottomBar>

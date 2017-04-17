@@ -1,0 +1,158 @@
+# view res/layout/activity_order_list.xml #generated:142
+# view res/layout/activity_product_details.xml #generated:118
+# view res/layout/fragment_home.xml #generated:71
+# view res/layout/fragment_product_introduce.xml #generated:22
+-keep class android.support.v4.view.ViewPager { <init>(...); }
+
+# view res/layout/activity_product_list.xml #generated:2
+-keep class android.support.v4.widget.DrawerLayout { <init>(...); }
+
+# view res/layout/activity_settle.xml #generated:168
+# view res/layout/activity_settle.xml #generated:187
+# view res/layout/activity_settle.xml #generated:206
+# view res/layout/activity_settle.xml #generated:225
+# view res/layout/activity_settle.xml #generated:244
+# view res/layout/comment_item.xml #generated:20
+# view res/layout/comment_item.xml #generated:67
+# view res/layout/comment_item.xml #generated:71
+# view res/layout/comment_item.xml #generated:76
+# view res/layout/comment_item.xml #generated:81
+# view res/layout/fragment_home.xml #generated:88
+# view res/layout/home_seckill_item.xml #generated:13
+# view res/layout/order_details_products_item.xml #generated:11
+# view res/layout/order_list_item.xml #generated:45
+# view res/layout/order_list_item.xml #generated:52
+# view res/layout/order_list_item.xml #generated:59
+# view res/layout/order_list_item.xml #generated:66
+# view res/layout/order_list_item.xml #generated:73
+# view res/layout/product_lv_item.xml #generated:12
+# view res/layout/recommend_comment_item.xml #generated:46
+# view res/layout/recommend_comment_item.xml #generated:50
+# view res/layout/recommend_comment_item.xml #generated:55
+# view res/layout/recommend_comment_item.xml #generated:60
+# view res/layout/recommend_gv_item.xml #generated:13
+# view res/layout/shopcar_lv_item.xml #generated:23
+-keep class com.loopj.android.image.SmartImageView { <init>(...); }
+
+# view AndroidManifest.xml #generated:11
+-keep class com.m520it.jdmallv2.JDApplication { <init>(...); }
+
+# view AndroidManifest.xml #generated:33
+-keep class com.m520it.jdmallv2.activity.AddAddressActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:35
+-keep class com.m520it.jdmallv2.activity.AlipayActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:32
+-keep class com.m520it.jdmallv2.activity.ChooseAddressActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:25
+-keep class com.m520it.jdmallv2.activity.LoginActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:26
+-keep class com.m520it.jdmallv2.activity.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:36
+-keep class com.m520it.jdmallv2.activity.OrderDetailsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:34
+-keep class com.m520it.jdmallv2.activity.OrderListActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:30
+-keep class com.m520it.jdmallv2.activity.ProductDetailsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:29
+-keep class com.m520it.jdmallv2.activity.ProductListActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:27
+-keep class com.m520it.jdmallv2.activity.RegistActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:28
+-keep class com.m520it.jdmallv2.activity.ResetActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:31
+-keep class com.m520it.jdmallv2.activity.SettleActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:17
+-keep class com.m520it.jdmallv2.activity.SplashActivity { <init>(...); }
+
+# view res/layout/bottom_bar.xml #generated:2
+-keep class com.m520it.jdmallv2.ui.BottomBar { <init>(...); }
+
+# view res/layout/activity_choose_address.xml #generated:31
+# view res/layout/activity_product_list.xml #generated:99
+# view res/layout/fragment_category.xml #generated:40
+# view res/layout/fragment_product_comment.xml #generated:153
+# view res/layout/fragment_shopcar.xml #generated:21
+-keep class com.m520it.jdmallv2.ui.FlexiListView { <init>(...); }
+
+# view res/layout/activity_product_list.xml #generated:109
+# view res/layout/fragment_home.xml #generated:46
+# view res/layout/fragment_mine.xml #generated:22
+-keep class com.m520it.jdmallv2.ui.FlexiScrollView { <init>(...); }
+
+# view res/layout/fragment_home.xml #generated:132
+-keep class com.m520it.jdmallv2.ui.HorizontalListView { <init>(...); }
+
+# view res/layout/number_input_et.xml #generated:2
+-keep class com.m520it.jdmallv2.ui.NumberInputView { <init>(...); }
+
+# view res/layout/rating_bar_view.xml #generated:2
+-keep class com.m520it.jdmallv2.ui.RatingBar { <init>(...); }
+
+# view res/layout/sub_category_view.xml #generated:2
+-keep class com.m520it.jdmallv2.ui.SubCategoryView { <init>(...); }
+
+# view res/layout/frag_all_order.xml #generated:8
+# view res/layout/frag_wait_pay.xml #generated:7
+# view res/layout/frag_wait_receive.xml #generated:8
+# view res/layout/frag_wait_sure.xml #generated:8
+# view res/layout/fragment_orderlist.xml #generated:7
+-keep class me.maxwin.view.XListView { <init>(...); }
+
+# onClick res/layout/activity_product_details.xml #generated:163
+-keepclassmembers class * { *** add2ShopCar(...); }
+
+# onClick res/layout/activity_settle.xml #generated:125
+# onClick res/layout/activity_settle.xml #generated:84
+-keepclassmembers class * { *** addAddress(...); }
+
+# onClick res/layout/activity_settle.xml #generated:112
+# onClick res/layout/activity_settle.xml #generated:71
+-keepclassmembers class * { *** chooseAddress(...); }
+
+# onClick res/layout/activity_product_list.xml #generated:241
+-keepclassmembers class * { *** chooseSearchClick(...); }
+
+# onClick res/layout/activity_add_address.xml #generated:13
+# onClick res/layout/activity_choose_address.xml #generated:12
+# onClick res/layout/activity_order_details.xml #generated:16
+# onClick res/layout/activity_order_list.xml #generated:16
+# onClick res/layout/activity_product_details.xml #generated:14
+# onClick res/layout/activity_settle.xml #generated:15
+-keepclassmembers class * { *** goBack(...); }
+
+# onClick res/layout/activity_login.xml #generated:72
+-keepclassmembers class * { *** loginClick(...); }
+
+# onClick res/layout/activity_alipay.xml #generated:150
+-keepclassmembers class * { *** payClick(...); }
+
+# onClick res/layout/activity_add_address.xml #generated:111
+-keepclassmembers class * { *** reGetAddress(...); }
+
+# onClick res/layout/activity_login.xml #generated:87
+# onClick res/layout/activity_regist.xml #generated:87
+-keepclassmembers class * { *** registClick(...); }
+
+# onClick res/layout/activity_login.xml #generated:95
+# onClick res/layout/activity_product_list.xml #generated:254
+# onClick res/layout/activity_reset.xml #generated:45
+-keepclassmembers class * { *** resetClick(...); }
+
+# onClick res/layout/activity_add_address.xml #generated:193
+-keepclassmembers class * { *** saveAddress(...); }
+
+# onClick res/layout/activity_settle.xml #generated:374
+-keepclassmembers class * { *** submitClick(...); }
+
